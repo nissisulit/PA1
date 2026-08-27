@@ -20,4 +20,6 @@ def rotate_word(text):
 word = input("Enter text: ")
 print(rotate_word(word))
 ```
+# **Problem 2: Username Builder Problem**
+For Problem 2, the objective is to create a function that generates a username using the user's first and last names. The resulting username must be written in lowercase, with a period (.) placed between the first and last names. For example, "Nissi" and "Sulit" would produce "nissi.sulit".
 
